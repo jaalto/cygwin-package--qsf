@@ -1,0 +1,8 @@
+sdesc: "Lightweight statistical spam filter"
+ldesc: "Quick Spam Filter is a lightweight statistical spam filter. It
+is designed to be small, fast, reliable, easy to install, and simple
+to use in a procmail recipe. For these reasons it is not written in
+Perl (slow to start up) and does not run as a daemon handling requests
+(more complex, harder to install and use)."
+category: Mail
+requires: cygwin libgdbm4

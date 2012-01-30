@@ -1,0 +1,2 @@
+tag1: qsf
+  http://packages.debian.org/unstable/qsf pregexp:orig.tar.gz file:qsf_1.2.7.orig.tar.gz new: x:

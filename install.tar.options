@@ -1,0 +1,11 @@
+# This file contains extra options when files are
+# installed. The options are given one option per line.
+#
+--exclude=*.spec
+--exclude=release-checklist
+--exclude=PACKAGE
+--exclude=VERSION
+--exclude=lsm
+--exclude=INSTALL
+# Empty file
+--exclude=quickref.txt

@@ -1,0 +1,8 @@
+# When ./confgure is being run, options listed here are appended
+# after default Cygwin option set.
+
+--without-mysql
+--without-sqlite
+--with-gdbm
+--with-btree
+--with-list
